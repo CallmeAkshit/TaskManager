@@ -86,7 +86,13 @@ This project is a backend system for a task tracking and management application 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd task-tracking-backend
+   cd TaskManager
+
+3. **Install dependencies and build the project**:
+
+```bash
+mvn clean install
+
 
 ## **Accessing the Application**
 
