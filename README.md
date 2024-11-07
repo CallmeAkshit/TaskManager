@@ -82,3 +82,21 @@ This project is a backend system for a task tracking and management application 
 
    ```bash
    git clone <repository-url>
+
+2. **Navigate to the project directory**:
+
+   ```bash
+   cd task-tracking-backend
+
+## **Accessing the Application**
+
+- **H2 Console**: Available at `/h2-console` for database inspection during development.
+- **WebSocket Testing**: Connect to the WebSocket endpoint at `/ws` to receive notifications.
+
+## **API Documentation**
+
+The project exposes several REST endpoints for managing users, tasks, projects, comments, and notifications. You can use tools like Postman to test these endpoints.
+
+
+
+
