@@ -1,0 +1,19 @@
+hello.py
+  s_4b569ca676b1ea::t_4375ff3b2a288f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "45e630758102decfc73697fe950719f1cab8e25f",
+  "prompts": {},
+  "sessions": {
+    "s_4b569ca676b1ea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_4b569ca676b1ea",
+        "model": "unknown"
+      },
+      "human_author": "akshit.bansal1 <akshit.bansal1@spinny.com>"
+    }
+  }
+}
